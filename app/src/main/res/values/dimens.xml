@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="items_column">2</integer>
+
+    <dimen name="items_margin">2dp</dimen>
+    <dimen name="items_padding">4dp</dimen>
+
+</resources>
