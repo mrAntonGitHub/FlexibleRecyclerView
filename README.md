@@ -25,3 +25,8 @@ Test task for Avito
 ##### Примечания:
 1. Задание желательно выполнять на Kotlin.
 2. Выполненное задание нужно загрузить на github.
+
+### Preview
+<p align="center">
+<img src="data/video.gif" width="32%"/>
+</p>
